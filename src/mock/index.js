@@ -1,0 +1,10 @@
+import './accountMock';
+import './searchMock';
+import './notificationsMock';
+import './reportsMock';
+import './managementMock';
+import './calendarMock';
+import './kanbanMock';
+import './mailMock';
+import './projectMock';
+import './socialMock';
